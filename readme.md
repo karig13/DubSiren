@@ -26,10 +26,17 @@ Three or more potentiometers hold the pcb to the faceplate
 ------------------------------------------------------------------------------
 
 TO-DO List:
+
 Finish design and features
+	- find basic reverb+delay digital effect circuit
+	- draw a simple block diagram 
+
 Create and connect schematics in KiCad
+
 LTSpice simulation of schematics
+
 Layout in KiCad and layer mask editing
+
 Front panel design (for Euro/pedal/etc)
 
 
